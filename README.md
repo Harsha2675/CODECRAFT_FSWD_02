@@ -1,3 +1,5 @@
-# task_2
+# CODECRAFT_FSWD_02
 
-A new Flutter project.
+## Task 2 - Flutter Employee Management App
+
+A Flutter project for employee management system.
