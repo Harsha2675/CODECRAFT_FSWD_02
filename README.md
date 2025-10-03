@@ -9,5 +9,3 @@ Ensure the system has proper validation and authentication mechanisms to protect
 
 
 
-.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
