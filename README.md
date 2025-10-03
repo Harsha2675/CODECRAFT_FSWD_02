@@ -1,7 +1,12 @@
-<<<<<<< HEAD
 # Flutter Employee Management Application
 
 A comprehensive Flutter-based employee management mobile application with secure authentication and CRUD operations for efficient workforce administration.
+
+## Project Requirements
+
+Develop a web application that allows administrators to perform CRUD (Create, Read, Update, Delete) operations on employee records.
+
+Ensure the system has proper validation and authentication mechanisms to protect sensitive employee data.
 
 ## Features
 
@@ -83,6 +88,3 @@ This project is a complete employee management solution built with Flutter, prov
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# CODECRAFT_FSWD_02
->>>>>>> 2a671b413f43d705f42a6868cbdced1e3fa31f67
