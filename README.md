@@ -5,7 +5,6 @@
 
 A Flutter project for employee management system.
 =======
-# CODECRAFT_FSWD_02
 
 # CODECRAFT_FSWD_02
 
